@@ -1,0 +1,29 @@
+{
+  "name": "fernandomacias",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "author": "Fernando Macias (mdfernandomacias@gmail.com)",
+  "type": "commonjs",
+  "main": "index.js",
+  "keywords": [
+    "javascript",
+    "modulos"
+  ],
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "eslint": "^10.8.1",
+    "json-server": "^1.0.0-beta.15",
+    "moment": "^2.30.1",
+    "pkg": "^5.8.1",
+    "reach": "^1.0.1",
+    "react-router-dom": "^7.6.3"
+  },
+  "devDependencies": {
+    "@angular/cli": "^20.0.5",
+    "parcel": "^2.16.4"
+  }
+}
